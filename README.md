@@ -1,8 +1,8 @@
 # 📊FinanceStocks
 
-#####Yararlandığım kaynaklar:
+##### Yararlandığım kaynaklar:
 
-> Şirket logoları: [https://clearbit.com/logo]
+Şirket logoları: [https://clearbit.com/logo]
 
 Line Chart oluşturmak için kullandığım dokümantasyonlar: 
 -[https://developer.apple.com/documentation/Charts]
