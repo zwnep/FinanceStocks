@@ -1,6 +1,6 @@
 # 📊FinanceStocks
 
-##### Yararlandığım kaynaklar:
+#### Yararlandığım kaynaklar:
 
 Şirket logoları: [https://clearbit.com/logo]
 
