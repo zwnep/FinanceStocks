@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1D4DD060-3314-4376-9952-DD7BFF998AC0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDB90833-1672-420B-8E3D-A4453E4D1083"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinanceStocks/Views/HeaderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "HeaderView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "BDB90833-1672-420B-8E3D-A4453E4D1083 - 551c78f1b19734f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinanceStocks.HeaderView.showSheet.getter : Swift.Bool"
+                  moduleName = "FinanceStocks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zwnep/Desktop/FinanceStocks/FinanceStocks/Views/HeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "BDB90833-1672-420B-8E3D-A4453E4D1083 - 85ddc25e0fe2ccc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinanceStocks.HeaderView.showSheet.setter : Swift.Bool"
+                  moduleName = "FinanceStocks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zwnep/Desktop/FinanceStocks/FinanceStocks/Views/HeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "BDB90833-1672-420B-8E3D-A4453E4D1083 - 51745a319077d2f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinanceStocks.HeaderView.showSheet.modify : Swift.Bool"
+                  moduleName = "FinanceStocks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zwnep/Desktop/FinanceStocks/FinanceStocks/Views/HeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "BDB90833-1672-420B-8E3D-A4453E4D1083 - 539837741d3f36c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinanceStocks.HeaderView.showSheet.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FinanceStocks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zwnep/Desktop/FinanceStocks/FinanceStocks/Views/HeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "BDB90833-1672-420B-8E3D-A4453E4D1083 - dfc91384df1c643f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinanceStocks.HeaderView.$showSheet.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "FinanceStocks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zwnep/Desktop/FinanceStocks/FinanceStocks/Views/HeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
